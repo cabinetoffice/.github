@@ -1,2 +1,4 @@
 # .github
-Cabinet Office organisaion GitHub-wide files
+Cabinet Office organisation-wide GitHub files
+
+- [SECURITY.md](SECURITY.md)
